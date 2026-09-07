@@ -1,0 +1,21 @@
+{
+  "company": {
+    "legalName": "주식회사 프리퀄",
+    "englishName": "Freekual",
+    "ceo": "홍석찬",
+    "businessNumber": "478-86-00624",
+    "address": "서울특별시 서초구 논현로 161, 4층 401호",
+    "phone": "010-3654-5453",
+    "email": "straightedge85@gmail.com"
+  },
+  "site": {
+    "domain": "",
+    "title": "주식회사 프리퀄 | AI 기반 사업 실행 파트너"
+  },
+  "deploy": {
+    "type": "none",
+    "target": "",
+    "branch": "main",
+    "repo": "freekual-site"
+  }
+}
